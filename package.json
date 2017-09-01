@@ -1,0 +1,29 @@
+{
+  "name": "unity-color-assets",
+  "version": "0.0.1",
+  "description": "Colors, Gradients, etc. as assets so they can be more easily managed globally.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatthat/unity-color-assets.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "larrykirschner@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatthat/unity-color-assets/issues"
+  },
+  "homepage": "https://github.com/beatthat/unity-color-assets",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "install:test": "rm -f *.tgz && npm pack && cd test && npm run clean && npm install"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0"
+  }
+}
