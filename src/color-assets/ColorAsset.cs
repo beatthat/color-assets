@@ -5,7 +5,7 @@ using UnityEngine.Serialization;
 namespace BeatThat
 {
 	/// <summary>
-	/// Store a Color as an asset makes it easier to manage global/consistent color transitions.
+	/// Store a Color as an asset as a way to manage globally consistent colors.
 	/// </summary>
 	public class ColorAsset : ScriptableObject, IHasColor
 	{
