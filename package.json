@@ -30,6 +30,6 @@
     "dependencies": {
         "path": "^0.12.7",
         "unity-npm-utils": "github:beatthat/unity-npm-utils#semver:^0.0.9",
-        "property-interfaces": "github:beatthat/property-interfaces#semver:^0.0.1"
+        "property-interfaces": "github:beatthat/property-interfaces#semver:^0.0.5"
     }
 }
