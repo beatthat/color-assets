@@ -10,8 +10,8 @@ Temp
 *.swp
 *.log
 
-Library
 ProjectSettings
+Library
 .DS_Store
 
 node_modules

@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beatthat/color-assets.git"
+    "url": "git+https://github.com/ape/color-assets.git"
   },
   "config": {
     "scope": "ape"
@@ -19,9 +19,9 @@
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beatthat/color-assets/issues"
+    "url": "https://github.com/ape/color-assets/issues"
   },
-  "homepage": "https://github.com/beatthat/color-assets",
+  "homepage": "https://github.com/ape/color-assets",
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
     "install:test": "npm pack && cp ${npm_package_name}-${npm_package_version}.tgz ${npm_package_name}-latest.tgz && cd test && npm run clean && npm install",
@@ -35,8 +35,8 @@
   },
   "dependencies": {
     "path": "^0.12.7",
-    "property-interfaces": "github:beatthat/property-interfaces#semver:^0.0.5",
-    "unity-npm-utils": "github:beatthat/unity-npm-utils"
+    "property-interfaces": "github:beatthat/property-interfaces#semver:^1.0.0",
+    "unity-npm-utils": "github:beatthat/unity-npm-utils#semver:^1.0.0"
   },
   "devDependencies": {}
 }
