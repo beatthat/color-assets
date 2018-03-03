@@ -1,7 +1,7 @@
 {
   "name": "color-assets",
   "scope": "ape",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Colors, Gradients, etc. as unity (ScriptableObject) asset types so they can be more easily managed globally.",
   "main": "index.js",
   "repository": {
