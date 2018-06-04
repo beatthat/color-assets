@@ -1,6 +1,6 @@
 {
   "name": "color-assets",
-  "scope": "ape",
+  "scope": "beatthat",
   "version": "1.0.0",
   "description": "Colors, Gradients, etc. as unity (ScriptableObject) asset types so they can be more easily managed globally.",
   "main": "index.js",
@@ -14,7 +14,9 @@
   "files": [
     "index.js",
     "scripts",
-    "src"
+    "src",
+    "Runtime",
+    "Samples"
   ],
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
