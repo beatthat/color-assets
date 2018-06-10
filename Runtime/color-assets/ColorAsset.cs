@@ -1,3 +1,4 @@
+using BeatThat.Properties;
 using UnityEngine;
 using System;
 using UnityEngine.Serialization;

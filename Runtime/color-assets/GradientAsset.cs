@@ -1,3 +1,4 @@
+using BeatThat.Properties;
 using UnityEngine;
 
 namespace BeatThat
