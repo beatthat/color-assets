@@ -1,7 +1,7 @@
 {
   "name": "color-assets",
   "scope": "beatthat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Colors, Gradients, etc. as unity (ScriptableObject) asset types so they can be more easily managed globally.",
   "main": "index.js",
   "repository": {
