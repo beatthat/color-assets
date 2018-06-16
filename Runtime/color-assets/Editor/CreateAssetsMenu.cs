@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 using System.IO;
 
-namespace BeatThat
+namespace BeatThat.ColorAssets
 {
 	public static class CreateAssetsMenu 
 	{

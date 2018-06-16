@@ -1,7 +1,7 @@
 using BeatThat.Properties;
 using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.ColorAssets
 {
 	/// <summary>
 	/// Store a Gradient as an asset makes it easier to manage global/consistent color transitions.

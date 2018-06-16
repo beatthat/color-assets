@@ -3,7 +3,7 @@ using UnityEngine;
 using System;
 using UnityEngine.Serialization;
 
-namespace BeatThat
+namespace BeatThat.ColorAssets
 {
 	/// <summary>
 	/// Store a Color as an asset as a way to manage globally consistent colors.

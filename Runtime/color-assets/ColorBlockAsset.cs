@@ -2,7 +2,7 @@ using BeatThat.Properties;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace BeatThat
+namespace BeatThat.ColorAssets
 {
 	/// <summary>
 	/// Store a ColorBlock as an asset makes it easier to manage global/consistent selection colors.

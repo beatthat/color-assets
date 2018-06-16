@@ -1,10 +1,11 @@
+using BeatThat.Pools;
 using BeatThat.Properties;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace BeatThat
+namespace BeatThat.ColorAssets
 {
 	[CanEditMultipleObjects]
 	[CustomEditor(typeof(ColorAsset), true)]
@@ -35,5 +36,6 @@ namespace BeatThat
 		}
 	}
 }
+
 
 

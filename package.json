@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ape/color-assets.git"
+    "url": "git+https://github.com/beatthat/color-assets.git"
   },
   "config": {
     "scope": "ape"
@@ -21,9 +21,9 @@
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ape/color-assets/issues"
+    "url": "https://github.com/beatthat/color-assets/issues"
   },
-  "homepage": "https://github.com/ape/color-assets",
+  "homepage": "https://github.com/beatthat/color-assets",
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
     "install:test": "npm pack && cp ${npm_package_name}-${npm_package_version}.tgz ${npm_package_name}-latest.tgz && cd test && npm run clean && npm install",
